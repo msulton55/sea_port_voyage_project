@@ -1,0 +1,19 @@
+>>>>> Program Menu Instruction <<<<<
+
+There are 3 options you can choose:
+  1. Normal mode option
+  2. Manual mode option
+  3. Adjacent option
+
+>>>>> Normal Mode Option <<<<<
+This option will run normal program using Dijkstra Algorithm 
+to calculate the shortest path between 2 nodes: origin node and destination node.
+
+>>>>> Manual Mode Option <<<<<
+This option will run manual program by inputing origin node and multiple destination. 
+It doesn't use Dijkstra to calculate shortest path, instead calculate distance 
+per node per adjacent it connected. 
+
+>>>>> Adjacent Option <<<<<
+This option will show all adjacent lists of node from specified node. You will
+input the node and the adjacent lists will appear.
